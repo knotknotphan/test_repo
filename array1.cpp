@@ -25,7 +25,8 @@ main(void){
 	int integer[size];
     input(size,integer);
     output(size,integer);
-    printf("wow");
+    printf("changed
+	   ");
    
    	 
    	 
